@@ -19,5 +19,6 @@ public class palindrome{
         else{
             System.out.print("palindrome.");
         }
+        
     }
 }
